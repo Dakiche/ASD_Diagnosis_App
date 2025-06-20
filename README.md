@@ -1,8 +1,13 @@
-# ASD Diagnosis Using Machine Learning and Computer Vision
+# 🧠 ASD_Diagnosis_App
 
-This repository contains the implementation code for my master's thesis:
-**"Machine Learning and Computer Vision for Early Autism Spectrum Disorder (ASD) Diagnosis."**
+This repository contains the source code developed for the thesis:  
+**"Machine Learning and Computer Vision for Early Autism Spectrum Disorder (ASD) Diagnosis"**.
 
+It includes two main components:
+- ✅ **Machine Learning (ML)** models trained on structured clinical and behavioral data.
+- ✅ **Computer Vision (CV)** models using facial image classification via deep learning.
+
+---
 ## Contents
 
 - Data preprocessing
@@ -13,6 +18,7 @@ This repository contains the implementation code for my master's thesis:
 
 ## How to Run
 
+Before running the code, install the required Python libraries:
+
 ```bash
 pip install -r requirements.txt
-python ML/preprocessing.py
